@@ -9,12 +9,18 @@ layout: docs  # Do not modify.
 ---
 
 
-### Undergrad
-["Evaluación de Impacto"](ImpactEvaluation/Programa2020_EvaluacionImpacto.pdf) (Universidad de la República 2020)  
-"Comercio Internacional" (Universidad de la República 2020)  
+### Undergraduate  
+
+
+**"Evaluación de Impacto"** (UdelaR, 2020)  
+[[Ver programa <i class="fas fa-file-pdf" padding_left="3"></i>](ImpactEvaluation/Programa2020_EvaluacionImpacto.pdf)]    
+
+Comercio Internacional (UdelaR, 2020)
+
 
 ### Graduate
-"Economía Política Internacional" 
+
+"Economía Política Internacional" (2020)
 
 ### Short courses and workshops
 ["La práctica de los experimentos de encuesta: diseños y aplicaciones recientes"](SurveyExperiments/programa-survey-experiments-2019) (Escuela de Invierno en Métodos y Análisis de Datos, Universidad Católica del Uruguay)  
