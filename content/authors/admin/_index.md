@@ -46,4 +46,4 @@ I am an associate professor in the [Departamento de Economía (dECON)](https://c
 
 My primary research interests are in international and comparative political economy. My current research focuses on the analysis of international trade and domestic policy in developing countries, labor informality and social policy, informal access to basic services, and elections and political parties. 
 
-I am part of the LAPolMeth core team organizing the [Latin American Political Methodology Meetings](https://www.cambridge.org/core/membership/spm/conferences#LatinAmerica). I have been founding director of the [UCU Winter School in Methods and Data Analysis](http://www.ucu.edu.uy/eim) in Montevideo (2013-2015, 2019). 
+I am part of the LAPolMeth core team organizing the [Latin American Political Methodology Meetings](https://www.cambridge.org/core/membership/spm/conferences#LatinAmerica).
