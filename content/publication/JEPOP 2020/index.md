@@ -31,7 +31,7 @@ abstract: Despite substantial advances in political participation across Latin A
 
 links:
 - name: PDF
-  url: 
+  url: "Polarization and Turnout.pdf"
 - name: Online Appendix
   url: https://www.tandfonline.com/doi/suppl/10.1080/17457289.2018.1545775?scroll=top
 - name: Replication Materials
