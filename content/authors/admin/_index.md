@@ -42,7 +42,7 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I am an associate professor in the [Departamento de Economía (dECON)](https://cienciassociales.edu.uy/departamento-de-economia/) at the [Universidad de la República](http://www.universidad.edu.uy/). I received my Ph.D. in political science from the [University of Essex](https://www.essex.ac.uk/departments/government) in 2015. 
+I am an associate professor in the [Departamento de Economía (dECON)](https://cienciassociales.edu.uy/departamento-de-economia/) at the [Universidad de la República](http://www.universidad.edu.uy). I received my Ph.D. in political science from the [University of Essex](https://www.essex.ac.uk/departments/government) in 2015. 
 
 My primary research interests are in international and comparative political economy. My current research focuses on the analysis of international trade and domestic policy in developing countries, labor informality and social policy, informal access to basic services, and elections and political parties. 
 
