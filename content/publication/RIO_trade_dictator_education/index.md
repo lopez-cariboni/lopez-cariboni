@@ -4,8 +4,8 @@ abstract: "This paper explains variations in education spending among non-democr
 date: 2019-09-01
 publishDate: 2020-02-07T03:56:00.403461Z
 authors: 
-- "[Xun Cao](https://sites.psu.edu/xuncao/research/)"
 - admin
+- "[Xun Cao](https://sites.psu.edu/xuncao/research/)"
 publication_types: ["2"]
 abstract: ""
 featured: false

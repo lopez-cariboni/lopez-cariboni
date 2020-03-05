@@ -29,7 +29,7 @@
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 [[main]]
     name = "CV"
-    url = "files/CV20en.pdf"
+    url = "https://www.dropbox.com/s/ggvbp03ppqqwowg/LopezCariboniCV20en.pdf?dl=0"
     weight = 50
     
 [[main]]
