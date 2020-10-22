@@ -8,7 +8,7 @@ education:
     year: 2015
   - course: MA in Political Science
     institution: University of Essex
-    year: 2019
+    year: 2009
   - course: BSc in Political Science
     institution: Universidad de la República
     year: 2004
