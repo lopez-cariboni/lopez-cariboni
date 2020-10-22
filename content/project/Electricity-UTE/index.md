@@ -1,5 +1,5 @@
 ---
-title: Basic services, informality, and the middle-class
+title: Basic Goods Consumption amid Crisis
 subtitle: With [Sarah Berens](https://sberens.com/), [Irene Menéndez](https://sites.google.com/site/irenemenendez/), and [Armin von Schiller](https://www.die-gdi.de/en/armin-von-schiller/).
 # author: 
 summary: With [Sarah Berens](https://sberens.com/), [Irene Menéndez](https://sites.google.com/site/irenemenendez/), and [Armin von Schiller](https://www.die-gdi.de/en/armin-von-schiller/). A field experiment delivering information nudges to irregular electricity users. 
