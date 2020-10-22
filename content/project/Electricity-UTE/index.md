@@ -6,7 +6,7 @@ summary: With [Sarah Berens](https://sberens.com/), [Irene Menéndez](https://si
 tags:
 - Experiments
 - Electricity service
-date: 
+date: "2020-10-22"
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 image:
