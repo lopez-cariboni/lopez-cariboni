@@ -3,7 +3,7 @@ authors: Santiago López-Cariboni
 bio: 
 education:
   courses:
-  - course: PhD in Political
+  - course: PhD in Political Science
     institution: University of Essex
     year: 2015
   - course: MA in Political Science
