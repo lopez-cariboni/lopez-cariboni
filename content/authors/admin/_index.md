@@ -15,7 +15,7 @@ education:
 email: 'santiago.lopez@cienciassociales.edu.uy'
 interests:
 - International political economy
-- Informality, social policy, and basic services
+- Informality, social policy
 - Elections, political parties
 - Research methods
 name: Santiago López-Cariboni
