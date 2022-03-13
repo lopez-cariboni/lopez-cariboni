@@ -33,5 +33,4 @@ The project identifies which political candidates' attributes contribute to gend
 
 Supported by: [Centro de Estudios de Conflicto y Cohesión Social (COES)](https://coes.cl/).
 
-
 [Download paper](https://www.dropbox.com/s/ghi6pgr0qa4kq3i/Lopez-Cariboni%20and%20Reyes-Housholder_IMC2022.pdf?dl=0)
