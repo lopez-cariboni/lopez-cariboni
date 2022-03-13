@@ -90,13 +90,21 @@ subtitle = ""
 
 ### Working papers 
 
+"Parallel Conjoint Experiments for Measuring Gender Stereotypes
+and Analyzing Preferences" With [Catherine Reyes-Housholder](http://www.reyes-housholder.com/)
+
 "The Politics of Non-Contributory Social Policy: Labor Market Institutions and Left Strategies in the Developing World." 2019. With [Irene Menéndez](https://sites.google.com/site/irenemenendez/). Submitted.
 
 [Ronconi, Lucas](https://www.iza.org/person/8191/lucas-ronconi), [Ravi Kanbur](https://www.kanbur.dyson.cornell.edu/), and Santiago López-Cariboni. "Who Demands Labour (De) Regulation in the Developing World? Insider–Outsider Theory Revisited." 2019. IZA working paper No. 12831.
 
 "Preferences for noncontributory social policy in Latin America." With [Matthew E. Carnes](https://sites.google.com/a/georgetown.edu/mec247/research).
 
+<!--- "Local inequality, class-based politics, and the nationalization of the Left in Uruguay." with [Juan A Bogliaccini](https://www.juanbogliaccini.com/)
 
+"Conditional Compensation: From Industrialization Strategies to the Domestic Politics of Trade Liberalization." Submitted
+
+"Trade, Informality, and Social Insurance." Submitted.
+-->
 
 
 ### Ongoing projects
