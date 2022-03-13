@@ -91,7 +91,8 @@ subtitle = ""
 ### Working papers 
 
 "Parallel Conjoint Experiments for Measuring Gender Stereotypes
-and Analyzing Preferences" With [Catherine Reyes-Housholder](http://www.reyes-housholder.com/)
+and Analyzing Preferences" With [Catherine Reyes-Housholder](http://www.reyes-housholder.com/). [PDF](https://www.dropbox.com/s/ghi6pgr0qa4kq3i/Lopez-Cariboni%20and%20Reyes-Housholder_IMC2022.pdf?dl=0)
+
 
 "The Politics of Non-Contributory Social Policy: Labor Market Institutions and Left Strategies in the Developing World." 2019. With [Irene Menéndez](https://sites.google.com/site/irenemenendez/). Submitted.
 

@@ -27,6 +27,9 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: ""
+links:
+- name: PDF
+  url: https://www.dropbox.com/s/ghi6pgr0qa4kq3i/Lopez-Cariboni%20and%20Reyes-Housholder_IMC2022.pdf?dl=0
 ---
 
 The project identifies which political candidates' attributes contribute to gendered stereotypes. Unlike much of existing literature, we implement a conjoint survey design which omits information about candidate sex. Instead, respondents' perceptions of candidate sex is the the outcome variable that allow us to uncover such stereotypes of political candidates and map all the attributes into a latent dimension of “masculinity"-“femininity”. Then we analyze a different subset of survey respondents and investigate whether there is evidence of an electoral advantage for some stereotypes. The project covers several Latin American countries and the U.S.. 
