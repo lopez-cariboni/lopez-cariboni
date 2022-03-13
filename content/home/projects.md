@@ -96,11 +96,11 @@ subtitle = ""
 
 "Preferences for noncontributory social policy in Latin America." With [Matthew E. Carnes](https://sites.google.com/a/georgetown.edu/mec247/research).
 
-"Local inequality, class-based politics, and the nationalization of the Left in Uruguay." with [Juan A Bogliaccini](https://www.juanbogliaccini.com/)
-
-"Conditional Compensation: From Industrialization Strategies to the Domestic Politics of Trade Liberalization." Submitted
-
-"Trade, Informality, and Social Insurance." Submitted.
+# "Local inequality, class-based politics, and the nationalization of the Left in Uruguay." with [Juan A Bogliaccini](https://www.juanbogliaccini.com/)
+# 
+# "Conditional Compensation: From Industrialization Strategies to the Domestic Politics of Trade Liberalization." Submitted
+# 
+# "Trade, Informality, and Social Insurance." Submitted.
 
 
 
