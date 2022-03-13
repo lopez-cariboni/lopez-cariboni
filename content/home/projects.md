@@ -90,6 +90,8 @@ subtitle = ""
 
 ### Working papers 
 
+{{<cite page="/project/Female-Candidates" view="4" >}}
+
 "Parallel Conjoint Experiments for Measuring Gender Stereotypes
 and Analyzing Preferences" With [Catherine Reyes-Housholder](http://www.reyes-housholder.com/). [PDF](https://www.dropbox.com/s/ghi6pgr0qa4kq3i/Lopez-Cariboni%20and%20Reyes-Housholder_IMC2022.pdf?dl=0)
 
