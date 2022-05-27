@@ -5,7 +5,7 @@ authors:
 - admin
 
 title: "Who demands labor (de) regulation in the developing world? Revisiting the Insider--Outsider Theory" 
-date: 2022
+date: 2022-01-01
 doi: "10.1111/ilr.12363"
 
 # Schedule page publish date (NOT publication's date).
