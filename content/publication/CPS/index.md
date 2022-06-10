@@ -3,7 +3,7 @@ authors:
 - admin
 
 title: "Political Regimes and Informal Social Insurance" 
-date: 2022-10-06
+date: 2022-06-09
 # doi: "10.1111/ilr.12363"
 
 # Schedule page publish date (NOT publication's date).
