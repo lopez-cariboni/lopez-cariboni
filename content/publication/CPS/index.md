@@ -1,6 +1,5 @@
 ---
-authors:
-- admin
+authors:["Santiago López-Cariboni"]
 
 title: "Political Regimes and Informal Social Insurance" 
 date: 2022-01-02
