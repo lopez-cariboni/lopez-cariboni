@@ -28,9 +28,9 @@ abstract: Deliberate non-enforcement of the law has been analyzed as a policy to
 # - Source Themes
 # featured: false
 
-links:
-- name: PDF(coming soon)
-- name: Replication Materials (coming soon)
+# links:
+# - name: PDF(coming soon)
+# - name: Replication Materials (coming soon)
 
 
 # Featured image
