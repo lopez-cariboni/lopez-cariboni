@@ -3,7 +3,7 @@ authors:
 - admin
 
 title: "Political Regimes and Informal Social Insurance" 
-date: 2022-06-09
+date: 2022-01-02
 # doi: "10.1111/ilr.12363"
 
 # Schedule page publish date (NOT publication's date).
@@ -16,7 +16,7 @@ date: 2022-06-09
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "***Comparative Political Studies***"
+publication: "***Comparative Political Studies*** (conditionally accepted)"
 
 abstract: Deliberate non-enforcement of the law has been analyzed as a policy tool to redistribute income. I show that it also responds to political incentives for the provision of insurance, resembling two well-known dimensions of social policy design. I analyze data from a large informal program of social insurance in the world: informal access to electricity service. Transmission and distribution losses (TDL) in the electricity sector are counter-cyclical because non-compliance and theft increase during economic crises. By exploiting variation in political institutions, I capture political motivations for the provision of informal insurance. Using a panel of 110 developing countries (1970-2014) and instrumental variables for business cycles and regime type, I show that unlike highly entrenched autocrats, democracies tolerate increases in electricity losses during negative income shocks. This paper expands the literature on ``forbearance'' showing how the provision of informal insurance varies across the developing world.
 
