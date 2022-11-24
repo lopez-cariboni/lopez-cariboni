@@ -7,13 +7,13 @@ abstract: "Deliberate non-enforcement of the law has been analyzed as a policy t
 featured: false
 publication: "***Comparative Political Studies***"
 # tags: ["economic cycles", "electricity theft", "informal social policy", "partisan politics"]
-url_pdf: "https://journals.sagepub.com/doi/full/10.1177/00104140221139378"
+# url_pdf: "https://journals.sagepub.com/doi/full/10.1177/00104140221139378"
 # doi: "10.1080/13876988.2018.1462604"
 links:
-- name: PDF [coming soon]
-  url: 
-- name: Online Appendix [coming soon]
-  url: 
-- name: Replication Materials [coming soon]
-  url: 
+- name: PDF
+  url: https://journals.sagepub.com/doi/abs/10.1177/00104140221139378
+- name: Online Appendix
+  url: https://journals.sagepub.com/doi/suppl/10.1177/00104140221139378/suppl_file/sj-pdf-1-cps-10.1177_00104140221139378.pdf
+- name: Replication Materials
+  url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/4SVB14
 ---
