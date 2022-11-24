@@ -10,8 +10,10 @@ publication: "***Comparative Political Studies***"
 # url_pdf: "https://journals.sagepub.com/doi/full/10.1177/00104140221139378"
 # doi: "10.1080/13876988.2018.1462604"
 links:
-- name: PDF
+- name: DOI
   url: https://journals.sagepub.com/doi/abs/10.1177/00104140221139378
+- name: PDF
+  url: PoliticalRegimes_losses_Preprint.pdf
 - name: Online Appendix
   url: https://journals.sagepub.com/doi/suppl/10.1177/00104140221139378/suppl_file/sj-pdf-1-cps-10.1177_00104140221139378.pdf
 - name: Replication Materials
