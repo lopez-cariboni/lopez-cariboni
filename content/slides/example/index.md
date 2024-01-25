@@ -1,10 +1,10 @@
 ---
 title: Slides
-summary: An introduction to using Hugo Blox Builder's Slides feature.
+summary: An introduction to using Academic's Slides feature.
 authors: []
 tags: []
 categories: []
-date: '2019-02-05T00:00:00Z'
+date: "2019-02-05T00:00:00Z"
 slides:
   # Choose a theme from https://github.com/hakimel/reveal.js#theming
   theme: black
@@ -13,9 +13,9 @@ slides:
   highlight_style: dracula
 ---
 
-# Create slides in Markdown with Hugo Blox Builder
+# Create slides in Markdown with Academic
 
-[Hugo Blox Builder](https://hugoblox.com/) | [Documentation](https://docs.hugoblox.com/content/slides/)
+[Academic](https://sourcethemes.com/academic/) | [Documentation](https://sourcethemes.com/academic/docs/managing-content/#create-slides)
 
 ---
 
@@ -38,7 +38,7 @@ slides:
 - Speaker notes: `S`
 - Fullscreen: `F`
 - Zoom: `Alt + Click`
-- [PDF Export](https://revealjs.com/pdf-export/)
+- [PDF Export](https://github.com/hakimel/reveal.js#pdf-export): `E`
 
 ---
 
@@ -47,7 +47,6 @@ slides:
 Inline code: `variable`
 
 Code block:
-
 ```python
 porridge = "blueberry"
 if porridge == "blueberry":
@@ -99,19 +98,17 @@ Add speaker notes to your presentation
 
 ```markdown
 {{%/* speaker_note */%}}
-
 - Only the speaker can read these notes
 - Press `S` key to view
-  {{%/* /speaker_note */%}}
+{{%/* /speaker_note */%}}
 ```
 
 Press the `S` key to view the speaker notes!
 
 {{< speaker_note >}}
-
 - Only the speaker can read these notes
 - Press `S` key to view
-  {{< /speaker_note >}}
+{{< /speaker_note >}}
 
 ---
 
@@ -132,14 +129,14 @@ Press the `S` key to view the speaker notes!
 
 ---
 
-{{< slide background-image="/media/boards.jpg" >}}
+{{< slide background-image="/img/boards.jpg" >}}
 
 ## Custom Slide
 
 Customize the slide style and background
 
 ```markdown
-{{</* slide background-image="/media/boards.jpg" */>}}
+{{</* slide background-image="/img/boards.jpg" */>}}
 {{</* slide background-color="#0000FF" */>}}
 {{</* slide class="my-style" */>}}
 ```
@@ -164,6 +161,6 @@ Create `assets/css/reveal_custom.css` with:
 
 # Questions?
 
-[Ask](https://discord.gg/z8wNYzb)
+[Ask](https://spectrum.chat/academic)
 
-[Documentation](https://docs.hugoblox.com/content/slides/)
+[Documentation](https://sourcethemes.com/academic/docs/managing-content/#create-slides)

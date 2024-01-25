@@ -20,7 +20,7 @@ Comercio Internacional (UdelaR, 2020)
 
 ### Graduate
 
-"Economía Política Internacional (IPE)" (2020)
+"Economía Política Internacional" (2020)
 
 ### Short courses and workshops
 ["La práctica de los experimentos de encuesta: diseños y aplicaciones recientes"](SurveyExperiments/programa-survey-experiments-2019) (Escuela de Invierno en Métodos y Análisis de Datos, Universidad Católica del Uruguay)  
