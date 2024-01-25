@@ -10,11 +10,10 @@ layout: docs  # Do not modify.
 
 ### Methods courses:
 
-- "Designing and Implementing of Experiments in Social Sciences"
- 	+ MA in Economics (UdelaR)  2023 [course website](https://nicolas-schmidt.github.io/Curso_Experimentos/)
+- ["Designing and Implementing of Experiments in Social Sciences"](https://nicolas-schmidt.github.io/Curso_Experimentos/)
+ 	+ MA in Economics (UdelaR)  2023 ([course website](https://nicolas-schmidt.github.io/Curso_Experimentos/))
  	+ MA in Public Policy (UdelaR)  2024 
-- "Impact Evaluation"
-  + [Program (in Spanish) <i class="fas fa-file-pdf" padding_left="3"></i>](ImpactEvaluation/Programa2020_EvaluacionImpacto.pdf)]
+- "Impact Evaluation" ([Syllabus <i class="fas fa-file-pdf" padding_left="3"></i>](ImpactEvaluation/Programa2020_EvaluacionImpacto.pdf)])
  	+ BA in Development (UdelaR)  2020-present 
 - "Survey Experiments"
  	+ Professional training (UdelaR)  2022
