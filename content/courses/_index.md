@@ -8,7 +8,46 @@ layout: docs  # Do not modify.
 #   image: ""
 ---
 
-### Graduate
+## Methods courses:
+
+- "Designing and Implementing of Experiments in Social Sciences"
+ 	+ MA in Economics (UdelaR) \hfill 2023 
+ 	+ MA in Public Policy (UdelaR) \hfill 2024 
+- "Impact Evaluation"
+ 	+ BA in Development (UdelaR) \hfill 2020-present 
+- "Survey Experiments"
+ 	+ Professional training (UdelaR) \hfill 2022
+ 	+ Winter School in Methods and Data Analysis (UCU) \hfill 2019
+- "Quantitative Methods for Public Policy" 
+ 	+ MA in Public Policy (UCU), \hfill 2014-2019
+- "Introduction to panel data"
+ 	+ Winter School in Methods and Data Analysis (UCU) \hfill 2017-2018
+- "Linear regression and its applications" 
+ 	+ Winter School in Methods and Data Analysis (UCU) \hfill 2014-2015
+- "Panel data analysis" 
+ 	+ Winter School in Methods and Data Analysis (UCU) \hfill 2014
+- "Introduction to programming in R"
+ 	+ Winter School in Methods and Data Analysis (UCU) \hfill 2014
+ 
+
+## Substantive courses:
+
+- "International Political Economy" 
+ 	+ MA in Economics (UdelaR) \hfill 2020-2022,2024
+- "Political Economy" 
+ 	+ Diploma in Economics (UdelaR) \hfill 2020-2024
+ 	+ MA  in Public Policy (UCU), \hfill 2014-2019
+- International Trade 
+	+ BA in Development (UdelaR) \hfill 2020
+- Inferential Statistics 
+	+ BA in Political Science (UCU) \hfill 2014-2017 
+- International Political Economy 
+	+ BA in Political Science (UCU) \hfill 2014
+- Welfare State Regimes" 
+	+ BA in Political Science (UCU) \hfill 2013
+
+
+
 
 International Political Economy (*"Economía Política Internacional"*, UdelaR]
 [Program (in Spanish)  <i class="fas fa-file-pdf" padding_left="3"></i>](ImpactEvaluation/Programa2020_EvaluacionImpacto.pdf)]
