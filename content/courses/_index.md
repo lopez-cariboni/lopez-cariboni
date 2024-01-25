@@ -11,7 +11,8 @@ layout: docs  # Do not modify.
 
 ### Undergraduate  
 
-Policy impact evaluation [**"Evaluación de Impacto"** (UdelaR, 2020)][Ver programa <i class="fas fa-file-pdf" padding_left="3"></i>](ImpactEvaluation/Programa2020_EvaluacionImpacto.pdf)]
+Policy impact evaluation (*"Evaluación de Impacto"*, UdelaR]
+[Program (in Spanish)  <i class="fas fa-file-pdf" padding_left="3"></i>](ImpactEvaluation/Programa2020_EvaluacionImpacto.pdf)]
 
 
 Comercio Internacional (UdelaR, 2020)
