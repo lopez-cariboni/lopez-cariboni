@@ -8,19 +8,12 @@ layout: docs  # Do not modify.
 #   image: ""
 ---
 
+### Graduate
 
-### Undergraduate  
-
-Policy impact evaluation (*"Evaluación de Impacto"*, UdelaR]
+International Political Economy (*"Economía Política Internacional"*, UdelaR]
 [Program (in Spanish)  <i class="fas fa-file-pdf" padding_left="3"></i>](ImpactEvaluation/Programa2020_EvaluacionImpacto.pdf)]
 
 
-Comercio Internacional (UdelaR, 2020)
-
-
-### Graduate
-
-"Economía Política Internacional (IPE)" (2020)
 
 ### Short courses and workshops
 ["La práctica de los experimentos de encuesta: diseños y aplicaciones recientes"](SurveyExperiments/programa-survey-experiments-2019) (Escuela de Invierno en Métodos y Análisis de Datos, Universidad Católica del Uruguay)  
@@ -28,6 +21,19 @@ Comercio Internacional (UdelaR, 2020)
 "Linear regression and its applications"  
 "Panel data analysis"  
 "Introduction to programming in R"  
+
+
+
+### Undergraduate  
+
+Policy impact evaluation (*"Evaluación de Impacto"*, UdelaR]
+
+[Program (in Spanish)  <i class="fas fa-file-pdf" padding_left="3"></i>](ImpactEvaluation/Programa2020_EvaluacionImpacto.pdf)]
+
+
+Comercio Internacional (UdelaR, 2020)
+
+
 
 
 
