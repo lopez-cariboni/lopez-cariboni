@@ -11,7 +11,7 @@ layout: docs  # Do not modify.
 ### Methods courses:
 
 - ["Designing and Implementing of Experiments in Social Sciences"](https://nicolas-schmidt.github.io/Curso_Experimentos/)
- 	+ MA in Economics (UdelaR) 2023: (
+ 	+ MA in Economics (UdelaR) 2023: 
  	[Syllabus <i class="fas fa-file-pdf" padding_left="3"></i>](https://drive.google.com/u/0/uc?id=1P7wshzrPodf2tfPWMIRXo6YsI3zh0dMn&export=download), 
  	[course website](https://nicolas-schmidt.github.io/Curso_Experimentos/))
  	+ MA in Public Policy (UdelaR) 2024
