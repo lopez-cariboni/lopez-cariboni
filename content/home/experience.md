@@ -23,7 +23,7 @@ date_format = "Jan 2006"
 
 
 [[experience]]
-  title = "Associate Professor"
+  title = "Full Professor"
   company = "Departamento de Economía (dECON), Universidad de la República"
   company_url = "https://cienciassociales.edu.uy/departamento-de-economia/"
   location = "Montevideo, Uruguay"
@@ -61,7 +61,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Junior research officer"
   company = "Oficina de Planeamiento y Presupuesto, Presidencia de la República (Uruguay)"
-  company_url = "https://www.essex.ac.uk/departments/government"
+  company_url = "https://www.opp.gub.uy/"
   location = "Montevideo, Uruguay"
   date_start = "2006-06-01"
   date_end = "2008-06-30"
