@@ -39,7 +39,7 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I am Full Professor at the [Departamento de Economía (dECON)](https://cienciassociales.edu.uy/departamento-de-economia/), [Universidad de la República](http://www.universidad.edu.uy), since 2019. I received my Ph.D. in Political Science from the [University of Essex](https://www.essex.ac.uk/departments/government) in 2015.
+I am Full Professor at the [Departamento de Economía (dECON)](https://cienciassociales.edu.uy/departamento-de-economia/), [Universidad de la República](http://www.universidad.edu.uy). I received my Ph.D. in Political Science from the [University of Essex](https://www.essex.ac.uk/departments/government) in 2015.
 
 My research lies in international and comparative political economy. Current projects examine the political economy of taxing the wealthy, informal access to basic services, the politics of social policy and informality, and gender stereotypes in elections.
 
