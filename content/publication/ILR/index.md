@@ -18,7 +18,7 @@ doi: "10.1111/ilr.12363"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "***International Labour Review***"
+publication: "***International Labour Review***, 162(2): 223-243"
 
 abstract: The “insider-outsider” perspective has come to dominate the discourse on labor regulations. It argues that protective regulations hurt the less well-off outsiders but are kept in place because of the interests of the insiders, those who are covered by the regulations. But if the insider-outsider divide were as depicted in the standard representation, outsiders would be strongly against regulations. However, we present evidence that in fact a large majority of outsiders in developing countries support protective labor regulations, calling for a rethink of a sharp insider-outsider divide. We suggest a number of avenues for exploration, including income sharing, transitions, fairness, and employer power in labor markets.
 
